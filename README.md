@@ -1,2 +1,2 @@
-# php5-fpm-mysql
-PHP5-FPM docker image with MySQL Extension
+## How to Build
+`docker build -t php:5-fpm-mysql .`
